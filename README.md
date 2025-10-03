@@ -34,7 +34,7 @@ React Toastify for notifications
 
 Clone the repository:
 
-git clone <repo-url>
+git clone <https://github.com/zaidashraf249/IELTS-Institute-Homepage/tree/main/src>
 cd ielts-institute-homepage
 
 
